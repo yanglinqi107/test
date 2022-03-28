@@ -1,0 +1,2 @@
+我的测试2
+git reset HEAD 测试
